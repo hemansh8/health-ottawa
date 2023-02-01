@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="480px" viewBox="0 0 800 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>trans</title>
+    <desc>Created with Sketch.</desc>
+    <g id="visual." stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="assets" transform="translate(-48.000000, -840.000000)">
+            <g id="trans" transform="translate(48.000000, 840.000000)">
+                <polygon id="blue" fill="#5BCEFA" points="0 0 800 0 800 480 0 480"></polygon>
+                <polygon id="pink" fill="#F5A9B8" points="0 96 800 96 800 384 0 384"></polygon>
+                <polygon id="white" fill="#FFFFFF" points="0 192 800 192 800 288 0 288"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

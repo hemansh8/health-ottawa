@@ -1,0 +1,50 @@
+[
+    {
+        "question": "Do I need a health card?",
+        "answer": "A health card will only be required should laboratory or referral to specialist be required."
+    },
+    {
+        "question": "Can I get prescriptions/birth control without insurance or OHIP?",
+        "answer": "Depending on your eligibility, we may have funds to cover your prescriptions."
+    },
+    {
+        "question": "I need counseling but I can't afford it.",
+        "answer": "Depending on your eligibility, we can help with finding a funded source for counseling."
+    },
+    {
+        "question": "Will there be other people present at H.E.A.L.T.H during my appointment?",
+        "answer": "Appointments are made in advance. Our service is not walk-in. We can therefore limit the amount of people in our waiting room."
+    },
+    {
+        "question": "Do I need a referral from a doctor/nurse practitioner or other health care provider?",
+        "answer": "No referral needed."
+    },
+    {
+        "question": "Can you be my “family doctor”?",
+        "answer": "No, unfortunately we are not able to be your permanent family provider. We are primarily a consulting service. We do recognize however that getting clients to their goals will require multiple visits. We keep your chart open for 1 year following the last visit."
+    },
+    {
+        "question": "Can you help me find shelter, food or transportation?",
+        "answer": "Yes, we have case managers that are able to assist in finding and securing subsidies for housing, food, and transportation."
+    },
+    {
+        "question": "Can I have a sexual assault evidence kit (SAEK) completed at H.E.A.L.T.H.?",
+        "answer": "No, unfortunately evidence collection is not completed at H.E.A.L.T.H.  Please access the Ontario Network Sexaul Assault Treatment Centres found here:  <br /><a href='https://www.sadvtreatmentcentres.ca/'>https://www.sadvtreatmentcentres.ca/</a>"
+    },
+    {
+        "question": "Can I bring a support person?",
+        "answer": "Yes, support persons are welcome. Please know that it is out privacy policy to begin with the client on their own first."
+    },
+    {
+        "question": "I called but no one answered",
+        "answer": "We are sorry we missed your call.  Please note that our receptionist is only in the office from 10-2pm Monday - Friday to answer the phones.  Please send us an email or text our phone and we will get back to you within 1-2 business days."
+    },
+    {
+        "question": "What can I expect on my visit?",
+        "answer": "When you arrive at H.E.A.L.T.H, you will check in with our patient care coordinator who will ask some basic questions. You will then meet with a nurse practitioner in a private space to talk about the best plan of medical and mental health care for you. You can share as much or as little about your experiences as you feel comfortable. The length of your visit will depend on the services you require."
+    },
+    {
+        "question": "Why is there no location for H.E.A.L.T.H?",
+        "answer": "Where our nurse practitioner is practicing can change on a day to day basis.  Our H.E.A.L.T.H program is an outreach model that shares space with our community partners."
+    }
+]
